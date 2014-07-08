@@ -16,6 +16,7 @@ end
 
 full_name = name_from_terminal
 
+full_name = "first_name" + "middle_name" "last_name"
 #TODO: use string concatenation to build a custom message embedding the computed full_name
 
 # custom_message =
